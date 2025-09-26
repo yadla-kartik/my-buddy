@@ -1,0 +1,8 @@
+.shadow-comic {
+        box-shadow: -6px 6px 0px black;
+        }
+        
+        .shadow-none-active {
+            box-shadow: none;
+        }
+
