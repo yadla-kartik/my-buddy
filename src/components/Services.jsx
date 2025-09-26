@@ -1,6 +1,5 @@
 import React from "react";
 import buddy4 from "../assets/image.png"
-import emoji1 from "../assets/emoji1.svg"
 
 function Services() {
   const services = [
