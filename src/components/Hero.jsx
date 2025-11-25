@@ -28,8 +28,7 @@ export default function Hero() {
             Your Friend <br /> in Every City
           </h1>
           <p className="text-black-700 text-[24px] leading-7 font-medium poppins">
-            Ever ready to help you with your task. From <br /> delivering goods, 
-            to standing in queue,  <br />buddies do it all.
+           Helping your parents even when you’re far away, our buddies are always ready to handle your tasks - from delivering goods, they do it all with care.
           </p>
           <div className="flex items-center gap-10">
             <div>

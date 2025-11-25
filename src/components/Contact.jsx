@@ -14,7 +14,7 @@ function Contact() {
               href="mailto:app.buddyindia@gmail.com"
               className="hover:underline poppins"
             >
-              app.buddyindia@gmail.com
+              app.mybuddy@gmail.com
             </a>
           </div>
           <div className="flex items-center gap-2">
